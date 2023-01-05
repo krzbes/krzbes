@@ -1,5 +1,5 @@
 ### Hi there 👋
-I'm a CS student and a PHP developer. In my current work, I mostly do projects in Typo3 CMS.
+I'm a CS student and a PHP developer. In my current work, I mostly do projects in Shopware / Typo3 CMS.
 
 Feel free to contact me via k2b.github@gmail.com
 <!--
